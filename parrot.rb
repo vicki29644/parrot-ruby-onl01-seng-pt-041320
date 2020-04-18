@@ -9,9 +9,21 @@ end
 
 doubled = double(4)
 
-puts double(doubled)
+  puts double(doubled)
 
 def speak(phrase)
-puts phrase
+
+  puts phrase
+
+end
+
+def shout (sentence)
+  
+  "#{sentence.upcase}!!!!!!"
+end
+
+
+
+
   
   
