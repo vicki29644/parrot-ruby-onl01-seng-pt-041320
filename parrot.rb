@@ -12,6 +12,6 @@ doubled = double(4)
 puts double(doubled)
 
 def speak(phrase)
-  puts phrase
+puts phrase
   
   
